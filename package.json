@@ -1,0 +1,24 @@
+{
+  "name": "uni-cli",
+  "version": "1.0.0",
+  "description": "Command-Line Interface for MCCOM Universal ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamyil/uni-cli.git"
+  },
+  "author": "Kamil \"Kamyil\" Bugajak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamyil/uni-cli/issues"
+  },
+  "homepage": "https://github.com/Kamyil/uni-cli#readme",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "commander": "^2.17.1",
+    "inquirer": "^6.2.0"
+  }
+}
